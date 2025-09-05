@@ -3,6 +3,15 @@
 ## 项目简介
 这是一个基于天气API的实时天气查询应用，用户可以通过城市名称查询当前天气信息、未来预报以及历史天气数据。项目采用前后端分离架构，包含数据可视化功能。
 
+## 团队分工速览
+
+| 成员 | 职责 | 技术栈 | 负责目录 |
+|---|---|---|---|
+| **LYL** | 前端开发 | React.js + TypeScript | `frontend/` |
+| **LSJ** | 后端开发 | Node.js + Express.js | `backend/` |
+| **LYX** | 数据处理 | Python + Pandas | `data-processing/` |
+| **LTY** | 文档测试 | Markdown + Postman | `documentation/` |
+
 ## 技术栈
 - **前端**: React.js + TypeScript + Tailwind CSS
 - **后端**: Node.js + Express.js + TypeScript
@@ -10,7 +19,7 @@
 - **数据库**: MongoDB
 - **API**: OpenWeatherMap API
 
-## 团队成员分工
+## 详细团队成员分工
 
 ### LYL: 前端开发 (Frontend Developer)
 **负责目录**: `frontend/`
