@@ -1,0 +1,33 @@
+# 数据处理核心库
+pandas==2.1.4
+numpy==1.26.2
+
+# 数据可视化
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# 网络请求
+requests==2.31.0
+
+# 日期时间处理
+python-dateutil==2.8.2
+
+# 数据处理工具
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# 科学计算
+scipy==1.11.4
+
+# 机器学习（可选）
+scikit-learn==1.3.2
+
+# 开发工具
+jupyter==1.0.0
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
+
+# 环境管理
+python-dotenv==1.0.0
