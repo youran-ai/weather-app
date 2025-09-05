@@ -12,7 +12,7 @@
 
 ## 团队成员分工
 
-### 成员1: 前端开发 (Frontend Developer)
+### LYL: 前端开发 (Frontend Developer)
 **负责目录**: `frontend/`
 **主要职责**:
 - 设计并实现用户界面
@@ -27,7 +27,7 @@
 - CSS Grid/Flexbox布局
 - Jest测试框架
 
-### 成员2: 后端开发 (Backend Developer)
+### LSJ: 后端开发 (Backend Developer)
 **负责目录**: `backend/`
 **主要职责**:
 - 设计和实现RESTful API
@@ -42,7 +42,7 @@
 - JWT身份验证
 - Swagger API文档
 
-### 成员3: 数据处理 (Data Processing)
+### LYX: 数据处理 (Data Processing)
 **负责目录**: `data-processing/`
 **主要职责**:
 - 天气数据清洗和预处理
@@ -57,7 +57,7 @@
 - Matplotlib/Seaborn可视化
 - 数据导出格式优化
 
-### 成员4: 文档和测试 (Documentation & Testing)
+### LTY: 文档和测试 (Documentation & Testing)
 **负责目录**: `documentation/`
 **主要职责**:
 - 编写项目文档和用户指南
